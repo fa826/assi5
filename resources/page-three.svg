@@ -1,1 +1,7 @@
-
+<rect x="29" y="48" width="122" height="85" stroke="red" fill="transparent" stroke-width="5"/>
+ <circle cx="29" cy="48" r="5" fill="green" stroke-width="4">
+   <animateMotion dur="5s" repeatCount="indefinite">
+      <mpath xlink:href="#path"/>
+    </animateMotion>
+ </circle>
+ <path id="path" d="M3 1 L120 3 L122 1 L126 80 L-1 82 Z" fill="none"/>
